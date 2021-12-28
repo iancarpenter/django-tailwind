@@ -1,0 +1,5 @@
+{
+   "scripts": {
+    "build": "postcss tailwind.css -o ../static/css/tailwind-output.css"
+  }
+}
